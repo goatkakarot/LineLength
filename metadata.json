@@ -1,0 +1,5 @@
+{
+  "name": "Precision Metrology Tool",
+  "description": "Calibrate photos and measure physical lengths with sub-pixel precision using a dynamic grid and magnifier.",
+  "requestFramePermissions": []
+}
